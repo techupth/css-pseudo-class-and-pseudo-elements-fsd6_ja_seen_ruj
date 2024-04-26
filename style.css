@@ -1,1 +1,11 @@
-/* Start coding here */
+input:disabled {
+  background: lightgrey;
+}
+
+input:hover {
+  outline: 3px solid khaki;
+}
+
+button:hover {
+  color: pink;
+}
